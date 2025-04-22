@@ -7,18 +7,6 @@
 
 ## 👨‍💻 About Me
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Phat BX"
-        self.role = "Software Engineer"
-        self.languages = ["Python", "JavaScript", "Java"]
-        self.interests = ["Web Development", "DevOps", "Cloud Computing"]
-        self.current_focus = "Building scalable applications"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together! 🚀")
-
-me = SoftwareEngineer()
-me.say_hi()
+```
+Coder lỏ nhất thế giới
 ```
